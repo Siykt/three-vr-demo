@@ -1,0 +1,3 @@
+vite.config.js
+/src/graphql/generated.ts
+/src/scripts/fixme.js
